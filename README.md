@@ -58,6 +58,7 @@ END
 
 
 #### Manual Calculations
+<img width="1600" height="1398" alt="image" src="https://github.com/user-attachments/assets/03e04f6f-d734-4341-9477-407401872797" />
 
 
 
@@ -105,9 +106,13 @@ END
 
 #### Manual Calculations
 
+<img width="1600" height="1279" alt="image" src="https://github.com/user-attachments/assets/06bbf405-f981-4a8f-bfdd-90f8a5d4a71f" />
+
+
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
 <img width="635" height="422" alt="SUB(MPMC)" src="https://github.com/user-attachments/assets/4b20f756-8f16-4193-a686-12b6a236f807" />
+
 ## 3. MULTIPLICATION
 
 #### Algorithm
